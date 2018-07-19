@@ -9,5 +9,5 @@ The requirements for this project are simple and are as follows:
 
 ## Instructions
 Do not modify the existing logic, just find the bug in the code snippets and correct it.
-The expect output when running the script is displayed in `main.py`
+The expected output when running the script is displayed in `main.py`
 Do not modify the `main.py` file.
